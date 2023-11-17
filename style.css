@@ -91,7 +91,7 @@
 
 /* Main Section */
 .hero-section{
-    background-image: url("Hero_image_.jpg");
+    background-image: url("/Bike_Collection/images/Hero_image_.jpg");
     height: 750px;
     width:93.5%;
     background-size: cover;
@@ -151,7 +151,7 @@
     font-size: 1.2em;
 }
 .hero_image-last{
-    background-image: url("hero_img\ Bike3.jpg");
+    background-image: url("/Bike_Collection/images/hero_imgBike3.jpg");
     height: 700px;
     width:100%;
     background-size: cover;
@@ -174,7 +174,7 @@ a{
 .new-modelImg{
     height : 380px;
     width: 70%;
-    background-image: url(new\ models.jpeg);
+    background-image: url(/Bike_Collection/images/newModels.jpeg);
     background-size: cover;
     margin-top: 50px;
 }
